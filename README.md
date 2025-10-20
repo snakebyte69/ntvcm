@@ -205,3 +205,5 @@ macOS build instructions
 % ./ntvcm <-- to run
 
 % sudo cp nvtcm /usr/local/bin <-- to make it available anywhere
+then
+% ntvcm app.com <-- normal usage
