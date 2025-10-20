@@ -198,4 +198,10 @@ Example usage:
     clock rate:                  unbounded
     approx ms at 4Mhz:          11,679,023 == 0 days, 3 hours, 14 minutes, 39 seconds, 23 milliseconds
     
+macOS build instructions
+% make
+- % make clean <-- to start over
 
+% ./ntvcm <-- to run
+
+% sudo cp nvtcm /usr/local/bin <-- to make it available anywhere
